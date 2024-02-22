@@ -18,3 +18,14 @@ Functionality:
 
 -=Warning=-
 i will not maintain it, so feel free to download and continue your own path
+
+YES, it does work with HOTA Multiplayer.
+careful not to get cought ;)
+
+The quick Way
+![image](https://github.com/Mr-ExDevs/Heroes3---Hota1.72/assets/66460088/f3be3b56-9da0-4441-b9a7-160f879cd600)
+How to open,
+![image](https://github.com/Mr-ExDevs/Heroes3---Hota1.72/assets/66460088/c62a6c65-26fe-495d-be56-b43608186767)
+
+Pointers Access
+![image](https://github.com/Mr-ExDevs/Heroes3---Hota1.72/assets/66460088/3e7defb3-e48f-4a2c-8b50-612e5094ef35)
