@@ -32,3 +32,8 @@ How to open,
 Pointers Access
 
 ![image](https://github.com/Mr-ExDevs/Heroes3---Hota1.72/assets/66460088/3e7defb3-e48f-4a2c-8b50-612e5094ef35)
+
+
+All most used Artifact IDs in Extra Tab
+
+![image](https://github.com/Mr-ExDevs/Heroes3---Hota1.72/assets/66460088/16f5f77f-d42b-4c4e-883d-3e89de1f4af8)
