@@ -1,4 +1,5 @@
 # USE AT OWN RISK
+# Required Cheat Engine 7.5
 
 This was never intended for public use but i dont need this anymore and just wanna store it here.
 
